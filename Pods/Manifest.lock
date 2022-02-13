@@ -1,0 +1,22 @@
+PODS:
+  - BEMCheckBox (1.4.1)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - BEMCheckBox
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+
+PODFILE CHECKSUM: 32934e9df255c94b9f9c6827a96dc88456f1e0dd
+
+COCOAPODS: 1.9.1
