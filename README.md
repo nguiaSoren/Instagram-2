@@ -1,3 +1,3 @@
 # Instagram-2
 
-# Just UI
+# UI of SignUp and homePage
